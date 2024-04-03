@@ -32,3 +32,4 @@
 0.0.0.0 api.device.xiaomi.net
 0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 www.i9bet200.com
+0.0.0.0 1377x.to
