@@ -1,13 +1,12 @@
 # ------------------------------------[UPDATE]--------------------------------------
-# Title: The Block List Project - General blocklist
+# Title: General blocklist
 #
 # License: https://unlicense.org
 #
-
 -------------------------------------[INFO]---------------------------------------
 #
 # Added-from-Query-log list
-# Total number of network filters: 018
+# Total number of network filters: 18
 #
 # ------------------------------------[FILTERS]-------------------------------------
 

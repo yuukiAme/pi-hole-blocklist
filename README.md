@@ -1,5 +1,5 @@
 # pi-hole-blocklist
-It's for my personal use. There is no license.
+It's for my personal use. There is no license. Do what you want with it.
 
 
 Why does this blocklist exist?
