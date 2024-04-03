@@ -1,0 +1,47 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - General blocklist
+#
+#
+# Why does this blocklist exist?
+# - I encounter websites or domains that annoy me. I will add it to this list. 
+# - I'm tired of starting my Pi-hole fresh after a corrupted SD card and lose some of my personal blacklist domains accumlated over time from Query log.
+# - I will use this list for Pi-hole. That's all. 
+#
+#
+# License: https://unlicense.org
+#
+
+-------------------------------------[INFO]---------------------------------------
+#
+# Added-from-Query-log list
+# Total number of network filters: 018
+#
+# ------------------------------------[FILTERS]-------------------------------------
+
+# start the line with 0.0.0.0 <domain>
+
+0.0.0.0 www.bing.com
+0.0.0.0 cxcs.microsoft.net
+0.0.0.0 res.cdn.office.net
+0.0.0.0 domainreferrer3.microsoftcasualgames.com
+0.0.0.0 cmp.inmobi.com
+0.0.0.0 deff.nelreports.net
+0.0.0.0 assets2.msn.com
+0.0.0.0 browser.events.data.msn.com
+0.0.0.0 msedge.f.tlu.dl.delivery.mp.microsoft.com
+0.0.0.0 msedge.api.cdp.microsoft.com
+0.0.0.0 config.edge.skype.com
+0.0.0.0 api.msn.com
+0.0.0.0 th.bing.com
+0.0.0.0 bzib.nelreports.net
+0.0.0.0 business.bing.com
+0.0.0.0 filemoon.to
+0.0.0.0 api.device.xiaomi.net
+0.0.0.0 us.statusapi.micloud.xiaomi.net
+0.0.0.0 www.i9bet200.com
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+
