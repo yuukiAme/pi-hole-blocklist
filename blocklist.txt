@@ -32,3 +32,16 @@
 0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 www.i9bet200.com
 0.0.0.0 1377x.to
+0.0.0.0 www.facebook.com
+0.0.0.0 facebook.com
+0.0.0.0 login.facebook.com
+0.0.0.0 www.login.facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 www.fbcdn.net
+0.0.0.0 fbcdn.com
+0.0.0.0 www.fbcdn.com
+0.0.0.0 static.ak.fbcdn.net
+0.0.0.0 static.ak.connect.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 www.connect.facebook.net
+0.0.0.0 apps.facebook.com
