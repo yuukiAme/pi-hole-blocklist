@@ -35,6 +35,7 @@
 0.0.0.0 1377x.to
 0.0.0.0 feedbackws.icloud.com
 # below cname and domains are to block TP-Link Tapo so my camera is offline and leaving ntp alone.
+# test comment line
 0.0.0.0 api.tplinkra.com
 0.0.0.0 aps1-app-cloudgateway.iot.i.tplinknbu.com
 0.0.0.0 aps1-app-tapo-care.i.tplinknbu.com
