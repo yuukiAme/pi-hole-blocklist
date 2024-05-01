@@ -33,6 +33,7 @@
 0.0.0.0 www.i9bet200.com
 0.0.0.0 1377x.to
 0.0.0.0 feedbackws.icloud.com
+
 # 2024-04-07 cname and domains are to block TP-Link Tapo so my camera is offline and leaving ntp alone.
 0.0.0.0 api.tplinkra.com
 0.0.0.0 aps1-app-cloudgateway.iot.i.tplinknbu.com
@@ -47,9 +48,20 @@
 0.0.0.0 prd-iot-cloudgateway-app-aps1-1036837789.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 security.iot.i.tplinknbu.com
 0.0.0.0 sg-stun.tplinkcloud.com
+
 # 2024-04-08 Microsoft cname dns block because of Edge browser and some Mi and miui block
 0.0.0.0 ntp.msn.com
 0.0.0.0 img-s-msn-com.akamaized.net
 0.0.0.0 mcc.intl.inf.miui.com
 0.0.0.0 privacy.api.intl.miui.com
 0.0.0.0 i.mi.com
+
+# 2024-05-01 vieon wchat
+0.0.0.0 wchat.freshchat.com
+0.0.0.0 assetscdn-wchat.freshchat.com
+0.0.0.0 rts-static-prod.freshworksapi.com
+0.0.0.0 cloud.rawlazy.si
+0.0.0.0 rawlazy.si
+0.0.0.0 473949660394940.webpush.freshchat.com
+0.0.0.0 lightstep.kaizen.nvidia.com
+0.0.0.0 mobile.events.data.microsoft.com
