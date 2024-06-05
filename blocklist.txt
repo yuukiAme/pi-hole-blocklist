@@ -314,3 +314,20 @@
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zhuti.xiaomi.com
 0.0.0.0 zx.game.xiaomi.com
+
+# 2024-06-05 Adguard iOS filter blocklist - targeting instagram and facebook and its cdn
+
+||facebook.com^
+||cdninstagram.com^
+scontent-fallback.cdninstagram.com
+||fna.fbcdn.net^
+i-fallback.instagram.com
+z-p42-chat-e2ee-ig.facebook.com
+||gateway.instagram.com^
+i.instagram.com
+graph.facebook.com
+graph.instagram.com
+||cdn.fbsbx.com^
+netseer-ipaddr-assoc.xy.fbcdn.net
+netseer-ipaddr-assoc.xz.fbcdn.net
+graph-fallback.instagram.com
