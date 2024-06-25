@@ -315,7 +315,7 @@
 0.0.0.0 zhuti.xiaomi.com
 0.0.0.0 zx.game.xiaomi.com
 
-# 2024-06-05 Adguard iOS filter blocklist - targeting instagram and facebook and its cdn
+# 2024-06-05 Adguard iOS filter blocklist - targeting instagram and facebook and its cdn. Extra commit
 
 ||facebook.com^
 ||cdninstagram.com^
@@ -331,3 +331,7 @@ graph.instagram.com
 netseer-ipaddr-assoc.xy.fbcdn.net
 netseer-ipaddr-assoc.xz.fbcdn.net
 graph-fallback.instagram.com
+
+# 2024-06-25 Samsung Bixby AI
+api.rb.sbixby.com
+||sbixby.com^
