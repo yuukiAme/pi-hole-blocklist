@@ -335,3 +335,8 @@ graph-fallback.instagram.com
 # 2024-06-25 Samsung Bixby AI
 api.rb.sbixby.com
 ||sbixby.com^
+
+
+# 2024-07-01 sus msedge domain
+
+||ax-0001.ax-msedge.net^
