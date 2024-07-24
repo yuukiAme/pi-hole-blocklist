@@ -38,7 +38,6 @@
 0.0.0.0 api.tplinkra.com
 0.0.0.0 aps1-app-cloudgateway.iot.i.tplinknbu.com
 0.0.0.0 aps1-app-tapo-care.i.tplinknbu.com
-0.0.0.0 aps1-device-cloudgateway.iot.i.tplinknbu.com
 0.0.0.0 aps1-device-tapo-care.i.tplinknbu.com
 0.0.0.0 assets.tplinkra.com
 0.0.0.0 iac.tplinknbu.com
@@ -340,3 +339,8 @@ api.rb.sbixby.com
 # 2024-07-01 sus msedge domain
 
 ||ax-0001.ax-msedge.net^
+
+# 2024-07-24 bixbg
+
+bixbyllm.com
+# 0.0.0.0 aps1-device-cloudgateway.iot.i.tplinknbu.com
