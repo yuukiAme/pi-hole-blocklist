@@ -340,7 +340,11 @@ api.rb.sbixby.com
 
 ||ax-0001.ax-msedge.net^
 
-# 2024-07-24 bixbg
+# 2024-07-24 bixbg LLM by Samsung
 
-bixbyllm.com
+||bixbyllm.com^
 # 0.0.0.0 aps1-device-cloudgateway.iot.i.tplinknbu.com
+
+# 2024-08-09 Samsung domain
+||samsungdm.com^
+wsu-dn.samsungdm.com
