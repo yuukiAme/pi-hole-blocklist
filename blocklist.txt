@@ -349,3 +349,7 @@ api.rb.sbixby.com
 ||samsungdm.com^
 wsu-dn.samsungdm.com
 api.samsungcloud.com
+asset.samsunbgvisioncloud.com
+poll.gras.samsungdm.com
+play.samsungcloud.com
+us-auth2.samsungosp.com
