@@ -348,3 +348,4 @@ api.rb.sbixby.com
 # 2024-08-09 Samsung domain
 ||samsungdm.com^
 wsu-dn.samsungdm.com
+api.samsungcloud.com
