@@ -41,12 +41,10 @@
 0.0.0.0 aps1-device-tapo-care.i.tplinknbu.com
 0.0.0.0 assets.tplinkra.com
 0.0.0.0 iac.tplinknbu.com
-0.0.0.0 n-aps1-wap-gw.tplinkcloud.com
 0.0.0.0 n-device-api.tplinkcloud.com
 0.0.0.0 n-wap-gw.tplinkcloud.com
 0.0.0.0 prd-iot-cloudgateway-app-aps1-1036837789.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 security.iot.i.tplinknbu.com
-0.0.0.0 sg-stun.tplinkcloud.com
 
 # 2024-04-08 Microsoft cname dns block because of Edge browser and some Mi and miui block
 0.0.0.0 ntp.msn.com
