@@ -353,6 +353,9 @@ play.samsungcloud.com
 us-auth2.samsungosp.com
 
 # 2024-09-02
-1xlite-238339.top
-1xbet.com
-1x001.com
+0.0.0.0 1xlite-238339.top
+0.0.0.0 1xbet.com
+0.0.0.0 1x001.com
+
+# 2024-10-02
+0.0.0.0 vn-odc.samsungapps.com
