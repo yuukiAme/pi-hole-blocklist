@@ -359,3 +359,6 @@ us-auth2.samsungosp.com
 
 # 2024-10-02
 0.0.0.0 vn-odc.samsungapps.com
+
+# 2024-10-14
+0.0.0.0 api.vietpn.vn
