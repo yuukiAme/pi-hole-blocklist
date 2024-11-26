@@ -365,3 +365,6 @@ us-auth2.samsungosp.com
 
 # 2024-11-03
 0.0.0.0 www.craigslist.org
+
+# 2024-11-26
+0.0.0.0 www.blank.com
