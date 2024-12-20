@@ -366,5 +366,7 @@ us-auth2.samsungosp.com
 # 2024-11-03
 0.0.0.0 www.craigslist.org
 
-# 2024-11-26
-0.0.0.0 www.blank.com
+# 2024-12-20
+0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 alt7-mtalk.google.com
+0.0.0.0 mtalk.google.com
