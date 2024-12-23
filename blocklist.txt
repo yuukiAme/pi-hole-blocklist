@@ -341,7 +341,7 @@ api.rb.sbixby.com
 # 2024-07-24 bixbg LLM by Samsung
 
 ||bixbyllm.com^
-# 0.0.0.0 aps1-device-cloudgateway.iot.i.tplinknbu.com
+# aps1-device-cloudgateway.iot.i.tplinknbu.com
 
 # 2024-08-09 Samsung domain
 ||samsungdm.com^
@@ -353,20 +353,23 @@ play.samsungcloud.com
 us-auth2.samsungosp.com
 
 # 2024-09-02
-0.0.0.0 1xlite-238339.top
-0.0.0.0 1xbet.com
-0.0.0.0 1x001.com
+1xlite-238339.top
+1xbet.com
+1x001.com
 
 # 2024-10-02
-0.0.0.0 vn-odc.samsungapps.com
+vn-odc.samsungapps.com
 
 # 2024-10-14
-0.0.0.0 api.vietpn.vn
+api.vietpn.vn
 
 # 2024-11-03
-0.0.0.0 www.craigslist.org
+www.craigslist.org
 
 # 2024-12-20
-0.0.0.0 app.chat.global.xiaomi.net
-0.0.0.0 alt7-mtalk.google.com
-0.0.0.0 mtalk.google.com
+app.chat.global.xiaomi.net
+alt7-mtalk.google.com
+mtalk.google.com
+
+# 2024-12-23
+m3m4.xyz
