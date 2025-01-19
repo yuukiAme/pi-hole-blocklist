@@ -10,73 +10,71 @@
 #
 # ------------------------------------[FILTERS]-------------------------------------
 
-# start the line with 0.0.0.0 <domain>
-
-0.0.0.0 www.bing.com
-0.0.0.0 cxcs.microsoft.net
-0.0.0.0 res.cdn.office.net
-0.0.0.0 domainreferrer3.microsoftcasualgames.com
-0.0.0.0 cmp.inmobi.com
-0.0.0.0 deff.nelreports.net
-0.0.0.0 assets2.msn.com
-0.0.0.0 browser.events.data.msn.com
-0.0.0.0 msedge.f.tlu.dl.delivery.mp.microsoft.com
-0.0.0.0 msedge.api.cdp.microsoft.com
-0.0.0.0 config.edge.skype.com
-0.0.0.0 api.msn.com
-0.0.0.0 th.bing.com
-0.0.0.0 bzib.nelreports.net
-0.0.0.0 business.bing.com
-0.0.0.0 filemoon.to
-0.0.0.0 api.device.xiaomi.net
-0.0.0.0 us.statusapi.micloud.xiaomi.net
-0.0.0.0 www.i9bet200.com
-0.0.0.0 1377x.to
-0.0.0.0 feedbackws.icloud.com
+www.bing.com
+cxcs.microsoft.net
+res.cdn.office.net
+domainreferrer3.microsoftcasualgames.com
+cmp.inmobi.com
+deff.nelreports.net
+assets2.msn.com
+browser.events.data.msn.com
+msedge.f.tlu.dl.delivery.mp.microsoft.com
+msedge.api.cdp.microsoft.com
+config.edge.skype.com
+api.msn.com
+th.bing.com
+bzib.nelreports.net
+business.bing.com
+filemoon.to
+api.device.xiaomi.net
+us.statusapi.micloud.xiaomi.net
+www.i9bet200.com
+1377x.to
+feedbackws.icloud.com
 
 # 2024-04-07 cname and domains are to block TP-Link Tapo so my camera is offline and leaving ntp alone.
-0.0.0.0 api.tplinkra.com
-0.0.0.0 aps1-app-cloudgateway.iot.i.tplinknbu.com
-0.0.0.0 aps1-app-tapo-care.i.tplinknbu.com
-0.0.0.0 aps1-device-tapo-care.i.tplinknbu.com
-0.0.0.0 assets.tplinkra.com
-0.0.0.0 iac.tplinknbu.com
-0.0.0.0 n-device-api.tplinkcloud.com
-0.0.0.0 n-wap-gw.tplinkcloud.com
-0.0.0.0 prd-iot-cloudgateway-app-aps1-1036837789.ap-southeast-1.elb.amazonaws.com
-0.0.0.0 security.iot.i.tplinknbu.com
+api.tplinkra.com
+aps1-app-cloudgateway.iot.i.tplinknbu.com
+aps1-app-tapo-care.i.tplinknbu.com
+aps1-device-tapo-care.i.tplinknbu.com
+assets.tplinkra.com
+iac.tplinknbu.com
+n-device-api.tplinkcloud.com
+n-wap-gw.tplinkcloud.com
+prd-iot-cloudgateway-app-aps1-1036837789.ap-southeast-1.elb.amazonaws.com
+security.iot.i.tplinknbu.com
 
 # 2024-04-08 Microsoft cname dns block because of Edge browser and some Mi and miui block
-0.0.0.0 ntp.msn.com
-0.0.0.0 img-s-msn-com.akamaized.net
-0.0.0.0 mcc.intl.inf.miui.com
-0.0.0.0 privacy.api.intl.miui.com
-0.0.0.0 i.mi.com
+ntp.msn.com
+img-s-msn-com.akamaized.net
+mcc.intl.inf.miui.com
+privacy.api.intl.miui.com
+i.mi.com
 
 # 2024-05-01 vieon wchat
-0.0.0.0 wchat.freshchat.com
-0.0.0.0 assetscdn-wchat.freshchat.com
-0.0.0.0 rts-static-prod.freshworksapi.com
-0.0.0.0 cloud.rawlazy.si
-0.0.0.0 rawlazy.si
-0.0.0.0 473949660394940.webpush.freshchat.com
-0.0.0.0 lightstep.kaizen.nvidia.com
-0.0.0.0 mobile.events.data.microsoft.com
+wchat.freshchat.com
+assetscdn-wchat.freshchat.com
+rts-static-prod.freshworksapi.com
+cloud.rawlazy.si
+rawlazy.si
+473949660394940.webpush.freshchat.com
+lightstep.kaizen.nvidia.com
+mobile.events.data.microsoft.com
 
 # 2024-05-07 xiaomi miui updated from rama982
 
-0.0.0.0 10.235.124.13
-0.0.0.0 10.99.168.145
-0.0.0.0 10.99.184.96
-0.0.0.0 a.stat.xiaomi.com
-0.0.0.0 abtest.mistat.intl.xiaomi.com
-0.0.0.0 abtest.mistat.xiaomi.com
-0.0.0.0 account.jetbrains.com
-0.0.0.0 account.preview.n.xiaomi.net
-0.0.0.0 account.xiaomi.com
-0.0.0.0 ad.mi.com
-0.0.0.0 ad.xiaomi.com
-0.0.0.0 ad1.xiaomi.com
+10.235.124.13
+10.99.168.145
+10.99.184.96
+a.stat.xiaomi.com
+abtest.mistat.intl.xiaomi.com
+abtest.mistat.xiaomi.com
+account.jetbrains.com
+account.preview.n.xiaomi.net
+account.xiaomi.com
+ad.mi.com
+ad.xiaomi.com
+ad1.xiaomi.com
 0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
@@ -289,28 +287,28 @@
 0.0.0.0 us.find.api.micloud.xiaomi.net
 0.0.0.0 us.galleryapi.micloud.xiaomi.net
 0.0.0.0 us.statusapi.micloud.xiaomi.net
-0.0.0.0 userid.xiaomi.com
-0.0.0.0 video.intl.xiaomi.com
-0.0.0.0 video.xiaomi.com
-0.0.0.0 voip.game.xiaomi.com
-0.0.0.0 wallpaper.cdn.pandora.xiaomi.com
-0.0.0.0 wallpaper.pandora.xiaomi.com
-0.0.0.0 wap.game.xiaomi.com
-#0.0.0.0 weather.pandora.xiaomi.com
-#0.0.0.0 weatherapi.market.xiaomi.com
-0.0.0.0 wifiapi.micloud.xiaomi.net
-0.0.0.0 www.miui.com
-0.0.0.0 www.xiaomi.com
-0.0.0.0 xiaomi.com
-0.0.0.0 xiaomi.net
-0.0.0.0 xiazai.xiaomi.com
-0.0.0.0 xitong.xiaomi.com
-0.0.0.0 xlmc.sec.miui.com
-0.0.0.0 xshare.api.xiaomi.com
-0.0.0.0 zeus.ad.intl.xiaomi.com
-0.0.0.0 zeus.ad.xiaomi.com
-0.0.0.0 zhuti.xiaomi.com
-0.0.0.0 zx.game.xiaomi.com
+userid.xiaomi.com
+video.intl.xiaomi.com
+video.xiaomi.com
+voip.game.xiaomi.com
+wallpaper.cdn.pandora.xiaomi.com
+wallpaper.pandora.xiaomi.com
+wap.game.xiaomi.com
+#weather.pandora.xiaomi.com
+#weatherapi.market.xiaomi.com
+wifiapi.micloud.xiaomi.net
+www.miui.com
+www.xiaomi.com
+xiaomi.com
+xiaomi.net
+xiazai.xiaomi.com
+xitong.xiaomi.com
+xlmc.sec.miui.com
+xshare.api.xiaomi.com
+zeus.ad.intl.xiaomi.com
+zeus.ad.xiaomi.com
+zhuti.xiaomi.com
+zx.game.xiaomi.com
 
 # 2024-06-05 Adguard iOS filter blocklist - targeting instagram and facebook and its cdn. Extra commit
 
@@ -380,7 +378,7 @@ bfwyyxshksxuv.com # sus domain from filecrypt.co
 # 2024-01-14
 www.hentaiasmr.moe
 
-# 2025-01-19 xiaohongshu and its dns connections
+# 2025-01-19 xiaohongshu and its dns connections, copilot
 doh.pub
 dns.alidns.com
 flash.xiaohongshu.com
@@ -424,3 +422,4 @@ live-source-play.xhscdn.com
 all.huodonghylivecdn.sched.ovscdns.net
 lng.xiaohongshu.com.w.kunlunsl.com
 pull-vol-global-base.s.volcfcdndvs.com
+copilot.microsoft.com
