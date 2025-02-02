@@ -42,7 +42,7 @@ iac.tplinknbu.com
 n-device-api.tplinkcloud.com
 n-wap-gw.tplinkcloud.com
 prd-iot-cloudgateway-app-aps1-1036837789.ap-southeast-1.elb.amazonaws.com
-security.iot.i.tplinknbu.com
+# security.iot.i.tplinknbu.com // removed to check if P110M works
 
 # 2024-04-08 Microsoft cname dns block because of Edge browser and some Mi and miui block
 ntp.msn.com
@@ -426,3 +426,9 @@ copilot.microsoft.com
 
 # 2025-01-29 block CN gov domains
 ||gov.cn^
+
+# 2025-02-02 bloomberg news media and deepseek
+www.bloomberg.com
+www.deepseek.com
+www.npr.org
+www.nytimes.com
