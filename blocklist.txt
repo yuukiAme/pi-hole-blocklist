@@ -1,14 +1,14 @@
-# ------------------------------------[UPDATE]--------------------------------------
+# ------------------------------------[UPDATE]-------------------------------------
 # Title: General blocklist
 #
 # License: https://unlicense.org
 #
--------------------------------------[INFO]---------------------------------------
+#-------------------------------------[INFO]---------------------------------------
 #
 # Added-from-Query-log list
 # Total number of network filters: 18
 #
-# ------------------------------------[FILTERS]-------------------------------------
+# ------------------------------------[FILTERS]------------------------------------
 
 www.bing.com
 cxcs.microsoft.net
@@ -432,3 +432,13 @@ www.bloomberg.com
 www.deepseek.com
 www.npr.org
 www.nytimes.com
+
+# 2025-02-22 FPT and Vieon
+trailer.vieon.vn
+d.adsplay.net
+ads-cdn.fptplay.net
+la2.vnecdn.net
+log.adsplay.net
+spgo.io
+05.emailinboundprocessing.com
+bfwyyxshksxuv.com
