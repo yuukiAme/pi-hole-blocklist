@@ -11,6 +11,12 @@
 # ------------------------------------[FILTERS]------------------------------------
 
 www.bing.com
+bingads.microsoft.com
+c.bing.com
+sb.scorecardsearch.com
+www.scorecardsearch.com
+assets.msn.com
+skan.singular.net
 cxcs.microsoft.net
 res.cdn.office.net
 domainreferrer3.microsoftcasualgames.com
