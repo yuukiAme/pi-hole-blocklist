@@ -1,0 +1,18 @@
+# ------------------------------------[UPDATE]-------------------------------------
+# Title: General blocklist
+# License: https://unlicense.org
+#
+#-------------------------------------[INFO]---------------------------------------
+#                     Block Mainly Samsung and Bixby
+#
+# ------------------------------------[FILTERS]------------------------------------
+
+api.rb.sbixby.com
+||sbixby.com^
+||samsungdm.com^
+wsu-dn.samsungdm.com
+api.samsungcloud.com
+asset.samsunbgvisioncloud.com
+poll.gras.samsungdm.com
+play.samsungcloud.com
+us-auth2.samsungosp.com

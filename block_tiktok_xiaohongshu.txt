@@ -1,0 +1,54 @@
+# ------------------------------------[UPDATE]-------------------------------------
+# Title: General blocklist
+# License: https://unlicense.org
+#
+#-------------------------------------[INFO]---------------------------------------
+#                     Block Mainly TikTok and XiaoHongShu
+#
+# ------------------------------------[FILTERS]------------------------------------
+
+doh.pub
+dns.alidns.com
+flash.xiaohongshu.com
+www.xiaohongshu.com
+crash.xiaohongshu.com
+wap.cmpassport.com
+fe-platform.xhscdn.com
+fe-video-qc.xhscdn.com
+rec.xiaohongshu.com
+lng.xiaohongshu.com
+edith.xiaohongshu.com
+apm-native.xiaohongshu.com
+dj3xxii2.e0-dk.sched.ovscdns.com
+ecdn-ge662ar6.e0-dk.sched.ovscdns.com
+alb-48h200v6e3pscos3ij.cn-shanghai.alb.aliyuncsslb.com
+www.cmpassport.com
+onekey1.cmpassport.com
+open.e.189.cn
+8qbgy0d0.sched.sma-dk.tdnsstic1.cn
+id6.me
+auth.wosms.cn
+opencloud.wostore.cn
+live-room.xiaohongshu.com
+live-mall.xiaohongshu.com
+live-feed.xiaohongshu.com
+gslb.xiaohongshu.com
+mall.xiaohongshu.com
+search.xiaohongshu.com
+live-go.xiaohongshu.com
+rec.xiaohongshu.com
+cdn-api-auth.zztfly.com
+so.xiaohongshu.com
+sx-common-v4.volcgtm.com
+live-play-hw.xhscdn.com
+hcdnl.pullxaohs.gslb.c.cdnhwc2.com
+live-source-play-hw.xhscdn.com
+all.hylivecdn.sched.ovscdns.net
+pull-vol-cn-base.s.volcfcdndvs.com
+hcdnl.pullxaohs.global.gslb.c.cdnhwc6.com
+live-source-play.xhscdn.com
+all.huodonghylivecdn.sched.ovscdns.net
+lng.xiaohongshu.com.w.kunlunsl.com
+pull-vol-global-base.s.volcfcdndvs.com
+||gov.cn^
+www.deepseek.com

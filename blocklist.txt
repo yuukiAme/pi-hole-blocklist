@@ -428,7 +428,6 @@ live-source-play.xhscdn.com
 all.huodonghylivecdn.sched.ovscdns.net
 lng.xiaohongshu.com.w.kunlunsl.com
 pull-vol-global-base.s.volcfcdndvs.com
-copilot.microsoft.com
 
 # 2025-01-29 block CN gov domains
 ||gov.cn^
