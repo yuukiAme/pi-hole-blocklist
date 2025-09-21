@@ -7,6 +7,7 @@
 #
 # ------------------------------------[FILTERS]------------------------------------
 
+# 2025-09-21
 doh.pub
 dns.alidns.com
 flash.xiaohongshu.com
@@ -52,3 +53,43 @@ lng.xiaohongshu.com.w.kunlunsl.com
 pull-vol-global-base.s.volcfcdndvs.com
 ||gov.cn^
 www.deepseek.com
+
+# 2025-09-22
+
+a2047.api10.akamai.net
+sf16-website-login.neutral.ttwstatic.com
+a1015.mm2.akamai.net
+p16-pu-sign-useast8.tiktokcdn-us.com
+p16-sign-sg.tiktokcdn.com
+p16-pu-sign-no.tiktokcdn-eu.com
+p16-sign-sg.tiktokcdn.com
+p16-pu-sign-no.tiktokcdn-eu.com
+p16-pu-sign-useast8.tiktokcdn-us.com
+libraweb-sg.tiktok.com
+mcs-sg.tiktokv.com
+a901.mm3.akamai.net
+a126.mm2.akamai.net
+p16-sign-sg.tiktokcdn.com
+a2047.mm2.akamai.net
+libraweb-sg.tiktok.com
+a1691.t.akamai.net
+mcs-sg.tiktokv.com
+im-ws-sg.tiktok.com
+e28622.a.akamaiedge.net
+webcast.tiktok.com
+sgali1.ws.byteoversea.net
+e35058.api2.akamaiedge.net
+p19-sign.tiktokcdn-us.com
+v16-webapp.tiktok.com
+us.bytedance.map.fastly.net
+p16-sign-va.tiktokcdn.com
+a634.b.akamai.net
+zbdhwpic.v.ecdnx.com
+a2047.mm3.akamai.net
+p19-common-sign-useastred.tiktokcdn-eu.com
+stun.l.google.com
+mssdk-sg.tiktok.com
+lf16-tiktok-common.ibytedtos.com
+a606.b.akamai.net
+a1124.b.akamai.net
+starling-sg.tiktokv.com
