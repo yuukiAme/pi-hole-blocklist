@@ -120,3 +120,6 @@ byteoversea.com
 bytecdn.cn
 byted.org
 ibytedtos.com
+
+// 2026-08-23
+vt.tiktok.com

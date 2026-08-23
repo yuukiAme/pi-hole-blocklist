@@ -1,13 +1,7 @@
 # ------------------------------------[UPDATE]-------------------------------------
 # Title: General blocklist
-#
 # License: https://unlicense.org
-#
 #-------------------------------------[INFO]---------------------------------------
-#
-# Added-from-Query-log list
-# Total number of network filters: 18
-#
 # ------------------------------------[FILTERS]------------------------------------
 
 www.bing.com
@@ -38,7 +32,7 @@ www.i9bet200.com
 1377x.to
 feedbackws.icloud.com
 
-# 2024-04-07 cname and domains are to block TP-Link Tapo so my camera is offline and leaving ntp alone.
+// 2024-04-07 cname and domains are to block TP-Link Tapo so my camera is offline and leaving ntp alone.
 api.tplinkra.com
 aps1-app-cloudgateway.iot.i.tplinknbu.com
 aps1-app-tapo-care.i.tplinknbu.com
@@ -48,16 +42,16 @@ iac.tplinknbu.com
 n-device-api.tplinkcloud.com
 n-wap-gw.tplinkcloud.com
 prd-iot-cloudgateway-app-aps1-1036837789.ap-southeast-1.elb.amazonaws.com
-# security.iot.i.tplinknbu.com // removed to check if P110M works
+// security.iot.i.tplinknbu.com // removed to check if P110M works
 
-# 2024-04-08 Microsoft cname dns block because of Edge browser and some Mi and miui block
+// 2024-04-08 Microsoft cname dns block because of Edge browser and some Mi and miui block
 ntp.msn.com
 img-s-msn-com.akamaized.net
 mcc.intl.inf.miui.com
 privacy.api.intl.miui.com
 i.mi.com
 
-# 2024-05-01 vieon wchat
+// 2024-05-01 vieon wchat
 wchat.freshchat.com
 assetscdn-wchat.freshchat.com
 rts-static-prod.freshworksapi.com
@@ -67,7 +61,7 @@ rawlazy.si
 lightstep.kaizen.nvidia.com
 mobile.events.data.microsoft.com
 
-# 2024-05-07 xiaomi miui updated from rama982
+// 2024-05-07 xiaomi miui updated from rama982
 
 10.235.124.13
 10.99.168.145
@@ -81,218 +75,218 @@ account.xiaomi.com
 ad.mi.com
 ad.xiaomi.com
 ad1.xiaomi.com
-0.0.0.0 adinfo.ra1.xlmc.sec.miui.com
-0.0.0.0 adv.sec.intl.miui.com
-0.0.0.0 adv.sec.miui.com
-0.0.0.0 api.account.preview.n.xiaomi.net
-0.0.0.0 api.account.xiaomi.com
-0.0.0.0 api.ad.intl.xiaomi.com
-0.0.0.0 api.ad.xiaomi.com
-0.0.0.0 api.admob.xiaomi.com
-0.0.0.0 api.chat.xiaomi.net
-0.0.0.0 api.comm.miui.com
-0.0.0.0 api.cupid.ptqy.gitv.tv
-0.0.0.0 api.d.xiaomi.com
-0.0.0.0 api.developer.xiaomi.com
-0.0.0.0 api.device.xiaomi.net
-0.0.0.0 api.en.miui.com
-0.0.0.0 api.hybrid.intl.xiaomi.com
-0.0.0.0 api.hybrid.xiaomi.com
-0.0.0.0 api.io.mi.com
-0.0.0.0 api.micloud.xiaomi.net
-0.0.0.0 api.miui.security.xiaomi.com
-0.0.0.0 api.ra2.xlmc.sec.miui.com
-0.0.0.0 api.sec.intl.miui.com
-0.0.0.0 api.sec.miui.com
-0.0.0.0 api.setting.intl.miui.com
-0.0.0.0 api.tw06.xlmc.sec.miui.com
-0.0.0.0 api.vip.miui.com
-0.0.0.0 api.xiaomi.com
-0.0.0.0 api.xmpush.xiaomi.com
-0.0.0.0 api.zhuti.xiaomi.com
-0.0.0.0 app.chat.xiaomi.net
-0.0.0.0 app.market.xiaomi.com
-0.0.0.0 app.mibi.xiaomi.com
-0.0.0.0 app.migc.xiaomi.com
-0.0.0.0 app.xiaomi.com
-0.0.0.0 app01.nodes.gslb.mi-idc.com
-0.0.0.0 app02.nodes.gslb.mi-idc.com
-0.0.0.0 appstore.cdn.pandora.xiaomi.com
-0.0.0.0 appstore.pandora.xiaomi.com
-0.0.0.0 assistant.pandora.xiaomi.com
-0.0.0.0 auth.be.sec.miui.com
-0.0.0.0 authbe.sec.intl.miui.com
-0.0.0.0 awsusor0-cdn.fds-ssl.api.xiaomi.com
-0.0.0.0 b.netcheck.gallery.pandora.xiaomi.com
-0.0.0.0 bbs.game.xiaomi.com
-0.0.0.0 be01.hh.xiaomi.com
-0.0.0.0 bgp.fe01.c3.xiaomi.com
-0.0.0.0 bk01.hh.xiaomi.com
-0.0.0.0 blog.xiaomi.com
-0.0.0.0 bss.pandora.xiaomi.com
-0.0.0.0 c.id.mi.com
-0.0.0.0 calopenupdate.comm.miui.com
-0.0.0.0 cc.sys.intl.xiaomi.com
-0.0.0.0 cc.sys.miui.com
-0.0.0.0 cc2.sys.intl.xiaomi.com
-0.0.0.0 cc2.sys.miui.com
-0.0.0.0 ccc.sys.intl.xiaomi.com
-0.0.0.0 ccc.sys.miui.com
-0.0.0.0 cdn.ad.xiaomi.com
-0.0.0.0 cdn.fds-ssl.api.xiaomi.com
-0.0.0.0 clock.ad.xiaomi.com
-0.0.0.0 cnc.fe01.lg.xiaomi.com
-0.0.0.0 config.kuyun.com
-0.0.0.0 connect.rom.miui.com
-0.0.0.0 contactapi.micloud.xiaomi.net
-0.0.0.0 controller.intl.xiaomi.com
-0.0.0.0 ctc.fe01.c3.xiaomi.com
-0.0.0.0 ctc.fe02.c3.xiaomi.com
-0.0.0.0 d.xiaomi.com
-0.0.0.0 data.game.xiaomi.com
-0.0.0.0 data.mistat.intl.xiaomi.com
-0.0.0.0 data.mistat.xiaomi.com
-0.0.0.0 data.sec.miui.com
-0.0.0.0 de.pandora.xiaomi.com
-0.0.0.0 dev.api.zhuti.n.xiaomi.com
-0.0.0.0 dev.market.n.xiaomi.com
-0.0.0.0 dev.staging.api.developer.n.xiaomi.com
-0.0.0.0 drm.market.xiaomi.com
-0.0.0.0 dvb.pandora.xiaomi.com
-0.0.0.0 e.ad.xiaomi.com
-0.0.0.0 f1.g.mi.com
-0.0.0.0 fcanr.tracking.miui.com
-0.0.0.0 fe02.lg.xiaomi.com
-0.0.0.0 fe05.lg.xiaomi.com
-0.0.0.0 feedback.intl.miui.com
-0.0.0.0 feedback.miui.com
-0.0.0.0 file.market.xiaomi.com
-0.0.0.0 file.xmpush.xiaomi.com
-0.0.0.0 find.api.micloud.xiaomi.net
-0.0.0.0 flash.sec.intl.miui.com
-0.0.0.0 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
-0.0.0.0 fr.app.chat.global.xiaomi.net
-0.0.0.0 gallery.cdn.pandora.xiaomi.com
-0.0.0.0 gallery.pandora.xiaomi.com
-0.0.0.0 game.xiaomi.com
-0.0.0.0 geofence.sys.miui.com
-0.0.0.0 global.market.xiaomi.com
-0.0.0.0 global.preview.app.market.pt.xiaomi.com
-0.0.0.0 global.search.xiaomi.net
-0.0.0.0 globalapi.ad.xiaomi.com
-0.0.0.0 gvod.aiseejapp.atianqi.com
-0.0.0.0 hd.xiaomi.com
-0.0.0.0 hd02.lg.xiaomi.com
-0.0.0.0 heyue.xiaomi.com
-0.0.0.0 hk.mibi.xiaomi.com
-0.0.0.0 hm.xiaomi.com
-0.0.0.0 huodong.xiaomi.com
-0.0.0.0 huosai.xiaomi.com
-0.0.0.0 i.mi.com
-0.0.0.0 i.xiaomi.com
-0.0.0.0 igame.xiaomi.com
-0.0.0.0 image.box.xiaomi.com
-0.0.0.0 image.cdn.mvideo.xiaomi.com
-0.0.0.0 image.pandora.xiaomi.com
-0.0.0.0 ime.api.xiaomi.com
-0.0.0.0 imgg.traffic-media.co
-0.0.0.0 info.analysis.kp.sec.miui.com
-0.0.0.0 info.sec.miui.com
-0.0.0.0 iosdl.game.xiaomi.com
-0.0.0.0 jellyfish.pandora.xiaomi.com
-0.0.0.0 lbs.pandora.xiaomi.com
-0.0.0.0 lg-bgp.pandora.xiaomi.com
-0.0.0.0 log.ad.xiaomi.com
-0.0.0.0 login.game.xiaomi.com
-0.0.0.0 logonext.tv.kuyun.com
-0.0.0.0 logupdate.avlyun.sec.miui.com
-0.0.0.0 m.bss.pandora.xiaomi.com
-0.0.0.0 m.zhuti.xiaomi.com
-0.0.0.0 market.xiaomi.com
-0.0.0.0 mazu.sec.miui.com
-0.0.0.0 mcc.intl.inf.miui.com
-0.0.0.0 meihua.xiaomi.com
-0.0.0.0 metok-ccc.intl.xiaomi.com
-0.0.0.0 metok.sys.miui.com
-0.0.0.0 mibi.api.xiaomi.com
-0.0.0.0 mibi.xiaomi.com
-0.0.0.0 micardapi.micloud.xiaomi.net
-0.0.0.0 micloud.xiaomi.net
-0.0.0.0 migrate.driveapi.micloud.xiaomi.net
-0.0.0.0 milink.pandora.xiaomi.com
-0.0.0.0 mis.migc.xiaomi.com
-0.0.0.0 mishop.cdn.pandora.xiaomi.com
-0.0.0.0 mishop.pandora.xiaomi.com
-0.0.0.0 mitunes.game.xiaomi.com
-0.0.0.0 miui.com
-0.0.0.0 miui.net
-0.0.0.0 mlog.search.xiaomi.net
-0.0.0.0 mp.huangye.miui.com
-0.0.0.0 new.api.ad.xiaomi.com
-0.0.0.0 notice.game.xiaomi.com
-0.0.0.0 o2o.api.xiaomi.com
-0.0.0.0 onebox.api.zhuti.n.xiaomi.com
-0.0.0.0 onebox.market.n.xiaomi.com
-0.0.0.0 order.music.xiaomi.com
-0.0.0.0 pdc.micloud.xiaomi.net
-0.0.0.0 phonecallapi.micloud.xiaomi.net
-0.0.0.0 pmall.migc.xiaomi.com
-0.0.0.0 ppurifier.game.xiaomi.com
-0.0.0.0 ptmi.gitv.pandora.xiaomi.com
-0.0.0.0 qiye.xiaomi.com
-0.0.0.0 r.browser.miui.com
-0.0.0.0 r.sg.sec.miui.com
-0.0.0.0 reader.browser.miui.com
-0.0.0.0 register.xmpush.global.xiaomi.com
-0.0.0.0 register.xmpush.xiaomi.com
-0.0.0.0 relocationapi.micloud.xiaomi.net
-0.0.0.0 resolver.gslb.mi-idc.com
-0.0.0.0 resolver.msg.global.xiaomi.net
-0.0.0.0 resolver.msg.xiaomi.net
-0.0.0.0 ruac.account.xiaomi.com
-0.0.0.0 sandbox.xmpush.xiaomi.com
-0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 sec-cdn.static.xiaomi.net
-0.0.0.0 sec.resource.xiaomi.net
-0.0.0.0 secode2.hd.xiaomi.com
-0.0.0.0 sfsapi.micloud.xiaomi.net
-0.0.0.0 sgpac.account.xiaomi.com
-0.0.0.0 shenghuo.xiaomi.com
-0.0.0.0 shoes.app-xae.xiaomi.com
-0.0.0.0 ssp.ad.xiaomi.com
-0.0.0.0 staging.ai.api.xiaomi.com
-0.0.0.0 staging.api.zhuti.n.xiaomi.com
-0.0.0.0 staging.appapi.n.xiaomi.com
-0.0.0.0 staging.market.n.xiaomi.com
-0.0.0.0 starfish.pandora.xiaomi.com
-0.0.0.0 stat.pandora.xiaomi.com
-0.0.0.0 stat.xiaomi.com
-0.0.0.0 static.game.xiaomi.com
-0.0.0.0 static.mibi.xiaomi.com
-0.0.0.0 statusapi.micloud.xiaomi.net
-0.0.0.0 storeconfig.mistat.intl.xiaomi.com
-0.0.0.0 t1.g.mi.com
-0.0.0.0 tc.hd.xiaomi.com
-0.0.0.0 tel.fe01.hh.xiaomi.com
-0.0.0.0 test.ad.xiaomi.com
-0.0.0.0 test.e.ad.xiaomi.com
-0.0.0.0 test.log.ad.xiaomi.com
-0.0.0.0 test.new.api.ad.xiaomi.com
-0.0.0.0 test.xiaomi.com
-0.0.0.0 test.zeus.ad.xiaomi.com
-0.0.0.0 thm.market.xiaomi.com
-0.0.0.0 tracking.intl.miui.com
-0.0.0.0 tracking.miui.com
-0.0.0.0 trial.api.huangye.miui.com
-0.0.0.0 tv.app.migc.xiaomi.com
-0.0.0.0 update.avlyun.sec.miui.com
-0.0.0.0 update.intl.miui.com
-0.0.0.0 update.miui.com
-0.0.0.0 upgrade.mishop.pandora.xiaomi.com
-0.0.0.0 us.find.api.micloud.xiaomi.net
-0.0.0.0 us.galleryapi.micloud.xiaomi.net
-0.0.0.0 us.statusapi.micloud.xiaomi.net
+adinfo.ra1.xlmc.sec.miui.com
+adv.sec.intl.miui.com
+adv.sec.miui.com
+api.account.preview.n.xiaomi.net
+api.account.xiaomi.com
+api.ad.intl.xiaomi.com
+api.ad.xiaomi.com
+api.admob.xiaomi.com
+api.chat.xiaomi.net
+api.comm.miui.com
+api.cupid.ptqy.gitv.tv
+api.d.xiaomi.com
+api.developer.xiaomi.com
+api.device.xiaomi.net
+api.en.miui.com
+api.hybrid.intl.xiaomi.com
+api.hybrid.xiaomi.com
+api.io.mi.com
+api.micloud.xiaomi.net
+api.miui.security.xiaomi.com
+api.ra2.xlmc.sec.miui.com
+api.sec.intl.miui.com
+api.sec.miui.com
+api.setting.intl.miui.com
+api.tw06.xlmc.sec.miui.com
+api.vip.miui.com
+api.xiaomi.com
+api.xmpush.xiaomi.com
+api.zhuti.xiaomi.com
+app.chat.xiaomi.net
+app.market.xiaomi.com
+app.mibi.xiaomi.com
+app.migc.xiaomi.com
+app.xiaomi.com
+app01.nodes.gslb.mi-idc.com
+app02.nodes.gslb.mi-idc.com
+appstore.cdn.pandora.xiaomi.com
+appstore.pandora.xiaomi.com
+assistant.pandora.xiaomi.com
+auth.be.sec.miui.com
+authbe.sec.intl.miui.com
+awsusor0-cdn.fds-ssl.api.xiaomi.com
+b.netcheck.gallery.pandora.xiaomi.com
+bbs.game.xiaomi.com
+be01.hh.xiaomi.com
+bgp.fe01.c3.xiaomi.com
+bk01.hh.xiaomi.com
+blog.xiaomi.com
+bss.pandora.xiaomi.com
+c.id.mi.com
+calopenupdate.comm.miui.com
+cc.sys.intl.xiaomi.com
+cc.sys.miui.com
+cc2.sys.intl.xiaomi.com
+cc2.sys.miui.com
+ccc.sys.intl.xiaomi.com
+ccc.sys.miui.com
+cdn.ad.xiaomi.com
+cdn.fds-ssl.api.xiaomi.com
+clock.ad.xiaomi.com
+cnc.fe01.lg.xiaomi.com
+config.kuyun.com
+connect.rom.miui.com
+contactapi.micloud.xiaomi.net
+controller.intl.xiaomi.com
+ctc.fe01.c3.xiaomi.com
+ctc.fe02.c3.xiaomi.com
+d.xiaomi.com
+data.game.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.xiaomi.com
+data.sec.miui.com
+de.pandora.xiaomi.com
+dev.api.zhuti.n.xiaomi.com
+dev.market.n.xiaomi.com
+dev.staging.api.developer.n.xiaomi.com
+drm.market.xiaomi.com
+dvb.pandora.xiaomi.com
+e.ad.xiaomi.com
+f1.g.mi.com
+fcanr.tracking.miui.com
+fe02.lg.xiaomi.com
+fe05.lg.xiaomi.com
+feedback.intl.miui.com
+feedback.miui.com
+file.market.xiaomi.com
+file.xmpush.xiaomi.com
+find.api.micloud.xiaomi.net
+flash.sec.intl.miui.com
+fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
+fr.app.chat.global.xiaomi.net
+gallery.cdn.pandora.xiaomi.com
+gallery.pandora.xiaomi.com
+game.xiaomi.com
+geofence.sys.miui.com
+global.market.xiaomi.com
+global.preview.app.market.pt.xiaomi.com
+global.search.xiaomi.net
+globalapi.ad.xiaomi.com
+gvod.aiseejapp.atianqi.com
+hd.xiaomi.com
+hd02.lg.xiaomi.com
+heyue.xiaomi.com
+hk.mibi.xiaomi.com
+hm.xiaomi.com
+huodong.xiaomi.com
+huosai.xiaomi.com
+i.mi.com
+i.xiaomi.com
+igame.xiaomi.com
+image.box.xiaomi.com
+image.cdn.mvideo.xiaomi.com
+image.pandora.xiaomi.com
+ime.api.xiaomi.com
+imgg.traffic-media.co
+info.analysis.kp.sec.miui.com
+info.sec.miui.com
+iosdl.game.xiaomi.com
+jellyfish.pandora.xiaomi.com
+lbs.pandora.xiaomi.com
+lg-bgp.pandora.xiaomi.com
+log.ad.xiaomi.com
+login.game.xiaomi.com
+logonext.tv.kuyun.com
+logupdate.avlyun.sec.miui.com
+m.bss.pandora.xiaomi.com
+m.zhuti.xiaomi.com
+market.xiaomi.com
+mazu.sec.miui.com
+mcc.intl.inf.miui.com
+meihua.xiaomi.com
+metok-ccc.intl.xiaomi.com
+metok.sys.miui.com
+mibi.api.xiaomi.com
+mibi.xiaomi.com
+micardapi.micloud.xiaomi.net
+micloud.xiaomi.net
+migrate.driveapi.micloud.xiaomi.net
+milink.pandora.xiaomi.com
+mis.migc.xiaomi.com
+mishop.cdn.pandora.xiaomi.com
+mishop.pandora.xiaomi.com
+mitunes.game.xiaomi.com
+miui.com
+miui.net
+mlog.search.xiaomi.net
+mp.huangye.miui.com
+new.api.ad.xiaomi.com
+notice.game.xiaomi.com
+o2o.api.xiaomi.com
+onebox.api.zhuti.n.xiaomi.com
+onebox.market.n.xiaomi.com
+order.music.xiaomi.com
+pdc.micloud.xiaomi.net
+phonecallapi.micloud.xiaomi.net
+pmall.migc.xiaomi.com
+ppurifier.game.xiaomi.com
+ptmi.gitv.pandora.xiaomi.com
+qiye.xiaomi.com
+r.browser.miui.com
+r.sg.sec.miui.com
+reader.browser.miui.com
+register.xmpush.global.xiaomi.com
+register.xmpush.xiaomi.com
+relocationapi.micloud.xiaomi.net
+resolver.gslb.mi-idc.com
+resolver.msg.global.xiaomi.net
+resolver.msg.xiaomi.net
+ruac.account.xiaomi.com
+sandbox.xmpush.xiaomi.com
+sdkconfig.ad.intl.xiaomi.com
+sdkconfig.ad.xiaomi.com
+sec-cdn.static.xiaomi.net
+sec.resource.xiaomi.net
+secode2.hd.xiaomi.com
+sfsapi.micloud.xiaomi.net
+sgpac.account.xiaomi.com
+shenghuo.xiaomi.com
+shoes.app-xae.xiaomi.com
+ssp.ad.xiaomi.com
+staging.ai.api.xiaomi.com
+staging.api.zhuti.n.xiaomi.com
+staging.appapi.n.xiaomi.com
+staging.market.n.xiaomi.com
+starfish.pandora.xiaomi.com
+stat.pandora.xiaomi.com
+stat.xiaomi.com
+static.game.xiaomi.com
+static.mibi.xiaomi.com
+statusapi.micloud.xiaomi.net
+storeconfig.mistat.intl.xiaomi.com
+t1.g.mi.com
+tc.hd.xiaomi
+tel.fe01.hh.xiaomi.com
+test.ad.xiaomi.com
+test.e.ad.xiaomi.com
+test.log.ad.xiaomi.com
+test.new.api.ad.xiaomi.com
+test.xiaomi.com
+test.zeus.ad.xiaomi.com
+thm.market.xiaomi.com
+tracking.intl.miui.com
+tracking.miui.com
+trial.api.huangye.miui.com
+tv.app.migc.xiaomi.com
+update.avlyun.sec.miui.com
+update.intl.miui.com
+update.miui.com
+upgrade.mishop.pandora.xiaomi.com
+us.find.api.micloud.xiaomi.net
+us.galleryapi.micloud.xiaomi.net
+us.statusapi.micloud.xiaomi.net
 userid.xiaomi.com
 video.intl.xiaomi.com
 video.xiaomi.com
@@ -316,7 +310,7 @@ zeus.ad.xiaomi.com
 zhuti.xiaomi.com
 zx.game.xiaomi.com
 
-# 2024-06-05 Adguard iOS filter blocklist - targeting instagram and facebook and its cdn. Extra commit
+// 2024-06-05 Adguard iOS filter blocklist - targeting instagram and facebook and its cdn. Extra commit
 
 ||facebook.com^
 ||cdninstagram.com^
@@ -333,21 +327,21 @@ netseer-ipaddr-assoc.xy.fbcdn.net
 netseer-ipaddr-assoc.xz.fbcdn.net
 graph-fallback.instagram.com
 
-# 2024-06-25 Samsung Bixby AI
+// 2024-06-25 Samsung Bixby AI
 api.rb.sbixby.com
 ||sbixby.com^
 
 
-# 2024-07-01 sus msedge domain
+// 2024-07-01 sus msedge domain
 
 ||ax-0001.ax-msedge.net^
 
-# 2024-07-24 bixbg LLM by Samsung
+// 2024-07-24 bixbg LLM by Samsung
 
 ||bixbyllm.com^
-# aps1-device-cloudgateway.iot.i.tplinknbu.com
+// aps1-device-cloudgateway.iot.i.tplinknbu.com
 
-# 2024-08-09 Samsung domain
+// 2024-08-09 Samsung domain
 ||samsungdm.com^
 wsu-dn.samsungdm.com
 api.samsungcloud.com
@@ -356,35 +350,35 @@ poll.gras.samsungdm.com
 play.samsungcloud.com
 us-auth2.samsungosp.com
 
-# 2024-09-02
+// 2024-09-02
 1xlite-238339.top
 1xbet.com
 1x001.com
 
-# 2024-10-02
+// 2024-10-02
 vn-odc.samsungapps.com
 
-# 2024-10-14
+// 2024-10-14
 api.vietpn.vn
 
-# 2024-11-03
+// 2024-11-03
 www.craigslist.org
 
-# 2024-12-20
+// 2024-12-20
 app.chat.global.xiaomi.net
 alt7-mtalk.google.com
 mtalk.google.com
 
-# 2024-12-23
+// 2024-12-23
 m3m4.xyz
 
-# 2024-12-25
+// 2024-12-25
 bfwyyxshksxuv.com # sus domain from filecrypt.co
 
-# 2024-01-14
+// 2024-01-14
 www.hentaiasmr.moe
 
-# 2025-01-19 xiaohongshu and its dns connections, copilot
+// 2025-01-19 xiaohongshu and its dns connections, copilot
 doh.pub
 dns.alidns.com
 flash.xiaohongshu.com
@@ -429,16 +423,16 @@ all.huodonghylivecdn.sched.ovscdns.net
 lng.xiaohongshu.com.w.kunlunsl.com
 pull-vol-global-base.s.volcfcdndvs.com
 
-# 2025-01-29 block CN gov domains
+// 2025-01-29 block CN gov domains
 ||gov.cn^
 
-# 2025-02-02 bloomberg news media and deepseek
+// 2025-02-02 bloomberg news media and deepseek
 www.bloomberg.com
 www.deepseek.com
 www.npr.org
 www.nytimes.com
 
-# 2025-02-22 FPT and Vieon
+// 2025-02-22 FPT and Vieon
 trailer.vieon.vn
 d.adsplay.net
 ads-cdn.fptplay.net
@@ -448,12 +442,15 @@ spgo.io
 05.emailinboundprocessing.com
 bfwyyxshksxuv.com
 
-# 2025-03-30
+// 2025-03-30
 
 bgr.com
 
-# 2025-05-05
+// 2025-05-05
 du88.com
 
-# 2025-05-16 //privacy concerns
+// 2025-05-16 //privacy concerns
 collegeboard.org
+
+// 2026-08-23
+test-gateway.instagram.com

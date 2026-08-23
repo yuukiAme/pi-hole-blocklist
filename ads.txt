@@ -6,6 +6,11 @@
 #
 # ------------------------------------[FILTERS]------------------------------------
 
+du88.in
+du88.soccer
+8ju.uk.com
+aqx.us.com
+mdl.us.com
 vivu88.net
 www.vivu88.net
 vivu88.com
@@ -56,3 +61,6 @@ sin88.download
 sin88.id
 net88.pub
 net88.sale
+
+// 2026-08-23
+magiamgia.day
