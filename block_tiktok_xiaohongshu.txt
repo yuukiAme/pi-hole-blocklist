@@ -52,7 +52,6 @@ all.huodonghylivecdn.sched.ovscdns.net
 lng.xiaohongshu.com.w.kunlunsl.com
 pull-vol-global-base.s.volcfcdndvs.com
 ||gov.cn^
-www.deepseek.com
 
 # 2025-09-22
 
@@ -94,7 +93,7 @@ a606.b.akamai.net
 a1124.b.akamai.net
 starling-sg.tiktokv.com
 
-// 2026-02-28
+# 2026-02-28
 www.tiktok.com
 tiktok.com
 v.tiktok.net
@@ -121,5 +120,19 @@ bytecdn.cn
 byted.org
 ibytedtos.com
 
-// 2026-08-23
+# 2026-08-23
 vt.tiktok.com
+
+# 2026-11-21
+open.xiaohongshu.com
+ark.xiaohongshu.com
+miniapp.xiaohongshu.com
+xhslink.com
+xhslink.cn
+rednote.com.my
+rednote.com
+xhscdn.cn
+xhsdns.com
+xhscdn.net
+xhscdn.cn
+xhscdn.com
