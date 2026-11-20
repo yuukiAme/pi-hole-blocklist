@@ -1,13 +1,8 @@
 # ------------------------------------[UPDATE]-------------------------------------
-# Title: General blocklist
-# License: https://unlicense.org
-#
 #-------------------------------------[INFO]---------------------------------------
 #                     Block Mainly TikTok and XiaoHongShu
-#
 # ------------------------------------[FILTERS]------------------------------------
 
-# 2025-09-21
 doh.pub
 dns.alidns.com
 flash.xiaohongshu.com
@@ -52,9 +47,6 @@ all.huodonghylivecdn.sched.ovscdns.net
 lng.xiaohongshu.com.w.kunlunsl.com
 pull-vol-global-base.s.volcfcdndvs.com
 ||gov.cn^
-
-# 2025-09-22
-
 a2047.api10.akamai.net
 sf16-website-login.neutral.ttwstatic.com
 a1015.mm2.akamai.net
@@ -92,12 +84,11 @@ lf16-tiktok-common.ibytedtos.com
 a606.b.akamai.net
 a1124.b.akamai.net
 starling-sg.tiktokv.com
-
-# 2026-02-28
 www.tiktok.com
 tiktok.com
 v.tiktok.net
 v.tiktok.com
+vt.tiktok.com
 tiktok.net
 tiktokcdn-us.com
 tiktokv.us
@@ -120,10 +111,8 @@ bytecdn.cn
 byted.org
 ibytedtos.com
 
-# 2026-08-23
-vt.tiktok.com
-
 # 2026-11-21
+
 open.xiaohongshu.com
 ark.xiaohongshu.com
 miniapp.xiaohongshu.com
